@@ -15,6 +15,10 @@ How to run project:
 5. Enter "mvn compile" in that terminal to compile maven.
 6. Enter "mvn test" command to run project or do right click on pom.xml file and click on Run as Maven test.
 
+Run project in different browser:
+1. Go to \src\test\resources\properties and open data.properties
+2. Change browser name from this file to open test case execution in different browser.
+
 Open Test Execution Report:
 1. Once project is executed successfully, "Reports" folder is generated with index.html file.
 2. Do right click on that file and click on open with> web browser to see report within eclips.
